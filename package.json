@@ -1,8 +1,8 @@
 {
-  "name": "nest-app",
+  "name": "nest-auth-boilerplate",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "vosse",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
